@@ -1,0 +1,12 @@
+{
+  "name": "sburbs-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "runserver.js",
+  "scripts": {},
+  "author": "",
+  "license": "",
+  "engines": {
+    "node": "10.10.0"
+  }
+}
